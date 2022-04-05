@@ -1,4 +1,18 @@
 {
+  "name": "atividade_versao_final",
+  "version": "1.0.0",
+  "description": "# Criando uma API RESTful com NodeJS e Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url":"git+https://github.com/gustavoalencar1/atividadeFinal.git"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "express": "^4.17.3"
   }
